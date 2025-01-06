@@ -8,5 +8,7 @@ make
 ./main (testfile)
 
 Test files include:
+
 test0.tig, test1.tig, test2.tig. 
+
 Expected output of test files is is respective .txt files.
