@@ -5,7 +5,7 @@ To test use following commands:
   
 make
   
-./main test0.tig
+./main (testfile)
 
 Test files include:
 test0.tig, test1.tig, test2.tig. 
